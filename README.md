@@ -36,10 +36,12 @@
 
 ### 🚀 Top Projects
 
-| Project | Description | Tech Stack |
+| **Project** | **Description** | **Tech Stack** |
 | ------- | ----------- | ---------- |
 | **[HRMC System](https://github.com/aurav2001/HRMS)** | Comprehensive HR management tool featuring Payroll, Attendance tracking, and modern recruitment pipelines. | `React` `Express` `Node.js` `MongoDB` `Tailwind` |
 | **[Developer Portfolio](https://github.com/aurav2001)** | Interactive, animated portfolio demonstrating modern frontend capabilities. | `React` `Vite` `CSS` |
+| **[My Work](https://github.com/aurav2001/My_work)** | A collection of web experiments, JavaScript components, and learning materials. | `JavaScript` `HTML` `CSS` |
+| **[React Projects](https://github.com/aurav2001/React)** | Various component-based React applications and frontend challenges. | `React` `JavaScript` |
 
 <br/>
 <p align="center"><i>Take a look at my repositories below!</i> 🚀</p>
