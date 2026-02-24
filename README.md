@@ -1,0 +1,45 @@
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
+  <h3 align="center">Passionate Full-Stack Developer | MERN Stack Developer</h3>
+  <img src="https://komarev.com/ghpvc/?username=aurav2001&label=Profile%20views&color=0e75b6&style=flat" alt="aurav2001" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on building specialized platforms like **[HRMC (Human Resource Management System)](https://github.com/aurav2001/HRMS)**.
+- 🌱 I’m currently deepening my knowledge in **React, Node.js, and MongoDB** optimization.
+- 👯 I’m looking to collaborate on Open Source projects or specialized Web Interfaces.
+- 🤔 I’m looking for help with advancing Full-Stack System Architecture.
+- 💬 Ask me about **JavaScript, React ecosystem, and Backend API infrastructure.**
+- 📫 How to reach me: **auravxyz@gmail.com** *(You can change this email!)*
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aurav2001&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurav2001&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🚀 Top Projects
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| **[HRMC System](https://github.com/aurav2001/HRMS)** | Comprehensive HR management tool featuring Payroll, Attendance tracking, and modern recruitment pipelines. | `React` `Express` `Node.js` `MongoDB` `Tailwind` |
+| **[Developer Portfolio](https://github.com/aurav2001)** | Interactive, animated portfolio demonstrating modern frontend capabilities. | `React` `Vite` `CSS` |
+
+<br/>
+<p align="center"><i>Take a look at my repositories below!</i> 🚀</p>
