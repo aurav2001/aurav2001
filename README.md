@@ -8,13 +8,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building specialized platforms like **[Remote IT Project.
+- 🔭 I’m currently working on building specialized platforms like **[Remote IT Project].
 - 🔭 I’m currently working on building specialized platforms like **[HRMC (Human Resource Management System)](https://github.com/aurav2001/HRMS)**.
 - 🌱 I’m currently deepening my knowledge in **React, Node.js, and MongoDB** optimization.
 - 👯 I’m looking to collaborate on Open Source projects or specialized Web Interfaces.
 - 🤔 I’m looking for help with advancing Full-Stack System Architecture.
 - 💬 Ask me about **JavaScript, React ecosystem, and Backend API infrastructure.**
-- 📫 How to reach me: **auravxyz@gmail.com** *(You can change this email!)*
+- 📫 How to reach me: **pandeygaurav9801@gmail.com**
 
 ---
 
