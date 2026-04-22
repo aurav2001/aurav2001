@@ -44,10 +44,12 @@
 <br/>
 | *[Matrimonial Project](https://github.com/aurav2001/....)** | 💑 A matrimonial platform for finding and connecting with compatible life partners.. | `React`   `Express` `Node.js` `Mysql` `Tailwind` |
 <br/>
-| *[ITSupport Project](https://github.com/aurav2001/....)** |*[Remote Project](https://github.com/aurav2001/....)** | 💻 A professional website for a Remote IT Support & Managed Services company — showcasing services,   solutions, and client support offerings.. | `React` `Express` `Node.js` `Mysql` `Tailwind` | 
+| *[ITSupport Project](https://github.com/aurav2001/....)**⚙️ IT support & managed services website for remote technical assistance and solutions. | `React` `Express` `Node.js` `Mysql` `Tailwind` | 
+<br/>
 | **[HRMC System](https://github.com/aurav2001/HRMS)** | Comprehensive HR management tool featuring Payroll, Attendance tracking, and modern recruitment pipelines. | `React` `Express` `Node.js` `MongoDB` `Tailwind` |
+<br/>
 | **[Developer Portfolio](https://github.com/aurav2001)** | Interactive, animated portfolio demonstrating modern frontend capabilities. | `React` `Vite` `CSS` |
-| **[My Work](https://github.com/aurav2001/My_work)** | A collection of web experiments, JavaScript components, and learning materials. | `JavaScript` `HTML` `CSS` |
+| **[My Work](https://github.com/aurav2001/My_work)** | A collection of web experiments, JavaScript components, and learning materials. | `JavaScript` `HTML` `CSS` |<br/>
 | **[React Projects](https://github.com/aurav2001/React)** | Various component-based React applications and frontend challenges. | `React` `JavaScript` |
 
 <br/>
