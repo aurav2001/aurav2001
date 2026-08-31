@@ -29,8 +29,8 @@
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurav2001&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurav2001&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aurav2001&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA&v=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurav2001&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&v=1" height="150" alt="languages graph" />
 </div>
 
 ---
